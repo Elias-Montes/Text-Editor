@@ -3,8 +3,7 @@
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "npm install --dev && webpack --mode production",
-    "start": "webpack --watch",
-    "heroku-prebuild": "npm install --dev"
+    "start": "webpack --watchALL"
   },
   "author": "2U",
   "license": "UNLICENSED",
