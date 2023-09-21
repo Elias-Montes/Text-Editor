@@ -27,9 +27,9 @@ module.exports = () => {
         fingerprints: false,
         inject: true,
         short_name: "JATE",
-        description: "Just A Simple Text Editor",
-        background_color: "#225ca3",
-        theme_color: "#225ca3",
+        description: "A Text Editor",
+        background_color: "#119290",
+        theme_color: "#23E6E3",
         start_url: "./",
         publicPath: "./",
         icons: [
